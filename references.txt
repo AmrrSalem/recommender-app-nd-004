@@ -1,0 +1,34 @@
+REFERENCES
+==========
+
+Core frameworks and servers
+- FastAPI (official docs): https://fastapi.tiangolo.com/
+- Uvicorn ASGI server: https://www.uvicorn.org/
+
+Data & scientific computing
+- pandas (documentation): https://pandas.pydata.org/docs/
+- NumPy (documentation): https://numpy.org/doc/
+- SciPy (documentation): https://docs.scipy.org/doc/
+- scikit-learn (documentation): https://scikit-learn.org/stable/
+
+Models and algorithms used (scikit-learn guides)
+- TF-IDF vectorization:
+  https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction
+- KMeans clustering:
+  https://scikit-learn.org/stable/modules/clustering.html#k-means
+- TruncatedSVD (Latent Semantic Analysis):
+  https://scikit-learn.org/stable/modules/decomposition.html#truncated-singular-value-decomposition-and-latent-semantic-analysis
+- Cosine similarity:
+  https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html
+
+UI (optional)
+- python-fasthtml (PyPI / docs): https://pypi.org/project/python-fasthtml/
+- FastHTML source repository: https://github.com/AnswerDotAI/fasthtml
+
+Evaluation metrics (definitions)
+- Precision / Recall / F1@k: common information-retrieval metrics
+- MAP (Mean Average Precision):
+  https://en.wikipedia.org/wiki/Information_retrieval#Average_precision
+- NDCG (Normalized Discounted Cumulative Gain):
+  https://en.wikipedia.org/wiki/Discounted_cumulative_gain
+- Item Coverage (catalog coverage): standard recommender-system coverage metric
