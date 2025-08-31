@@ -38,7 +38,7 @@ Any additional files are created internally (e.g., articles list is generated in
 ### Option 1: Install from GitHub
 
 ```bash
-git clone https://github.com/AmrSalem/recommender-app-nd-004.git
+git clone https://github.com/AmrrSalem/recommender-app-nd-004.git
 cd recommender-app-nd-004
 python -m venv .venv
 source .venv/bin/activate      # Linux / Mac
